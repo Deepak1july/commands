@@ -1,0 +1,2 @@
+To create docker image news:devops from a running container ubuntu_latest
+docker commit ubuntu_latest news:devops
